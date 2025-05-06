@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋 I have some projects in this repo but please check out my AboutMe repo first :)
 
 <!--
 **Wrenmir/Wrenmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
